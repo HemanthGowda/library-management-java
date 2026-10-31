@@ -1,0 +1,13 @@
+.git
+.idea
+.vscode
+.target
+target
+*.iml
+.env
+.DS_Store
+docs
+README.md
+CONTRIBUTING.md
+**/agent-transcripts
+**/.cursor

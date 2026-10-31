@@ -1,0 +1,9 @@
+# Optional profile for running the API against a Compose MongoDB instance without packaging the JAR.
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/library_management
+
+logging:
+  level:
+    com.library.management: DEBUG
